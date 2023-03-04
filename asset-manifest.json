@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.602d3415.css",
-    "main.js": "/static/js/main.bc940d54.js",
-    "static/js/787.9111de97.chunk.js": "/static/js/787.9111de97.chunk.js",
-    "index.html": "/index.html",
-    "main.602d3415.css.map": "/static/css/main.602d3415.css.map",
-    "main.bc940d54.js.map": "/static/js/main.bc940d54.js.map",
-    "787.9111de97.chunk.js.map": "/static/js/787.9111de97.chunk.js.map"
+    "main.css": "/Share-room-money-v2/static/css/main.602d3415.css",
+    "main.js": "/Share-room-money-v2/static/js/main.213493bb.js",
+    "static/js/787.9111de97.chunk.js": "/Share-room-money-v2/static/js/787.9111de97.chunk.js",
+    "index.html": "/Share-room-money-v2/index.html",
+    "main.602d3415.css.map": "/Share-room-money-v2/static/css/main.602d3415.css.map",
+    "main.213493bb.js.map": "/Share-room-money-v2/static/js/main.213493bb.js.map",
+    "787.9111de97.chunk.js.map": "/Share-room-money-v2/static/js/787.9111de97.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.602d3415.css",
-    "static/js/main.bc940d54.js"
+    "static/js/main.213493bb.js"
   ]
 }
