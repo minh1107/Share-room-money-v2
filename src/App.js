@@ -1,23 +1,24 @@
-import logo from './logo.svg';
 import './App.css';
+import Header from './components/Header';
+import Navbar from './components/Navbar';
+import Records from './components/Records';
+import TableResult from './components/TableResult';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className='flex flex-col'>
+      <div className='h-[90px] bg-[#3854a0] shadow-lg flex justify-center items-center w-[100%]'>
+        <Header />
+      </div>
+      <div className=' flex mx-4 mt-4'>
+        <div className='w-[30%] mr-4'>
+        <Navbar />
+        </div>
+        <div className='w-[80%] ml-4'>
+        <TableResult />
+        <Records />
+        </div>
+      </div>
     </div>
   );
 }
